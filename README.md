@@ -18,3 +18,5 @@ La salida de la versión final de Internet Explorer 5 ocurrió en tres etapas. E
 
 Así finalmente Internet Explorer 5 fue reemplazada por Microsoft Internet Explorer 6 en agosto de 2001 .
 
+
+![Internet Explorer 5](https://www.my-internet-explorer.com/wp-content/uploads/2019/03/IE-5.0.png "Internet Explorer 5")
