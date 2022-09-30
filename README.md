@@ -1,13 +1,12 @@
-# **Internet Explorer 5**
+# **Internet Explorer 5** 🔍
 
 El primer navegador de Microsoft lanzado a un mercado, Internet Explorer 5 presidió un gran aumento de participación de mercado sobre Netscape Navigator entre 1999 y 2001, y ofreció muchas funciones avanzadas para su época, también experimentó muchas mejoras con respecto a las versiones anteriores:
 
-## Mejoras 
-1. Su velocidad.
-2. Facilidad de uso.
-3. Tecnologías de desarrollo como ActiveX.
-4. Compatibilidad con XMLHTTPRequest.
-5. Y una amplia gama de funciones de Internet lo convirtieron en uno de los navegadores más avanzados del mercado.  
+## _**Mejoras**_ ⬆️
+1. Su velocidad ⏱️
+2. Facilidad de uso ℹ️
+3. Tecnologías de desarrollo como ActiveX 👨‍💻
+4. Y una amplia gama de funciones de Internet lo convirtieron en uno de los navegadores más avanzados del mercado 🥇
 Cuando se lanzó la versión 5.5 varios años después, también incluiría componentes HTML.
 
 ## Historia
