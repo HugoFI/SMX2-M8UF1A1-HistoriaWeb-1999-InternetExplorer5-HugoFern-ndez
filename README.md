@@ -6,7 +6,7 @@ El primer navegador de Microsoft lanzado a un mercado, Internet Explorer 5 presi
 1. Su velocidad ⏱️
 2. Facilidad de uso ℹ️
 3. Tecnologías de desarrollo como ActiveX 👨‍💻
-4. Y una amplia gama de funciones de Internet lo convirtieron en uno de los navegadores más avanzados del mercado 🥇
+4. Y una amplia gama de funciones de Internet lo convirtieron en uno de los navegadores más avanzados del mercado 🥇.
 Cuando se lanzó la versión 5.5 varios años después, también incluiría componentes HTML.
 
 ## Historia
