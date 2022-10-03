@@ -1,6 +1,6 @@
 # **Internet Explorer 5** 🔍
 
-El primer navegador de Microsoft lanzado a un mercado, Internet Explorer 5 presidió un gran aumento de participación de mercado sobre Netscape Navigator entre 1999 y 2001, y ofreció muchas funciones avanzadas para su época, también experimentó muchas mejoras con respecto a las versiones anteriores:
+El primer navegador de Microsoft lanzado a un mercado, ofreció muchas funciones avanzadas para su época, también experimentó muchas mejoras con respecto a las versiones anteriores:
 
 ## _**Mejoras**_ ⬆️
 1. Su velocidad ⏱️
@@ -12,7 +12,7 @@ Cuando se lanzó la versión 5.5 varios años después, también incluiría comp
 ## Historia
 La salida de la versión final de Internet Explorer 5 ocurrió en tres etapas. En primer lugar, una muestra entre los desarrolladores en junio de 1998 (5.0B1), y después una muestra pública fue en noviembre de 1998 (5.0B2). Luego, en marzo de 1999 se publicó la versión final (5.0).
 
-Además, era compatible con la gama más amplia de sistemas operativos de todas las versiones de IE. Sin embargo, la compatibilidad con muchos sistemas operativos se redujo rápidamente con parches posteriores, y Windows XP y las versiones posteriores de Windows no son compatibles debido a la inclusión de versiones posteriores de Internet Explorer.
+Además, era compatible con la gama más amplia de sistemas operativos de todas las versiones de IE. Sin embargo, la compatibilidad con muchos sistemas operativos se redujo con parches posteriores, y Windows XP y las versiones posteriores de Windows no son compatibles.
 
 Es uno de los principales participantes de la primera guerra de navegadores. Sus métodos de distribución y la integración de Windows participaron en Estados Unidos contra Microsoft. 
 
